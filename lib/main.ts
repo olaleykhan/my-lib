@@ -4,3 +4,5 @@ import Button from "./components/button/Button";
 export const ui = "lib";
 export { Button };
 export default ui;
+
+export * from "./services/http/index"
